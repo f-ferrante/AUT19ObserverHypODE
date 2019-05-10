@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Author: Francesco Ferrante, Gipsa-lab & Université Grenoble Alpes 
+% Author: Francesco Ferrante, Gipsa-lab & UniversitÃ© Grenoble Alpes 
 % Yeat: 2019
 %
 % Description: This code enables to reproduce the example in the paper by
